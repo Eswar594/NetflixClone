@@ -25,4 +25,5 @@
 .poster{
     margin:0px 0.5%;
     border-radius:3px;
+    border:6px solid rgb(8, 0, 0);
 }
